@@ -7,13 +7,13 @@ This project implements a user interface (UI) that consumes APIs from both Sprin
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/hacker123shiva/frontend-blogapplication-react.git
+   git clone https://github.com/md-khandaker/react-blog-frontend-application.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd frontend-blogapplication-react
+   cd react-blog-frontend-application
    ```
 
 3. **Install dependencies:**
